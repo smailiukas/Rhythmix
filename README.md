@@ -77,6 +77,9 @@ music-app/
 - MongoDB with Mongoose
 - File system management
 
+<img width="1465" alt="image" src="https://github.com/user-attachments/assets/dc458bf0-01d0-4e26-8f34-27a143b34188" />
+
+
 ## API Endpoints
 
 ### Songs
